@@ -1,12 +1,27 @@
 ---
-slug: "github-reading.jnapolitano.io"
-title: "reading.jnapolitano.io"
-repo: "justin-napolitano/reading.jnapolitano.io"
-githubUrl: "https://github.com/justin-napolitano/reading.jnapolitano.io"
-generatedAt: "2025-11-23T09:32:03.848861Z"
-source: "github-auto"
+slug: github-reading.jnapolitano.io
+title: Automating Static Site Build and Deployment with Python and Make
+repo: justin-napolitano/reading.jnapolitano.io
+githubUrl: https://github.com/justin-napolitano/reading.jnapolitano.io
+generatedAt: '2025-11-23T09:32:03.848861Z'
+source: github-auto
+summary: >-
+  Overview of a Python-driven pipeline automating dependency installation, site generation, and git
+  operations for static site reading.jnapolitano.io.
+tags:
+  - python
+  - static-site
+  - automation
+  - makefile
+  - deployment
+  - git
+seoPrimaryKeyword: static site build automation
+seoSecondaryKeywords:
+  - python build pipeline
+  - makefile automation
+  - git deployment
+seoOptimized: true
 ---
-
 
 # Technical Overview of reading.jnapolitano.io
 

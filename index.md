@@ -21,6 +21,11 @@ seoSecondaryKeywords:
   - makefile automation
   - git deployment
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is focused on automating static site build, deployment, and git workflows using Python
+  and Make, which aligns directly with the Automation family's description and example slugs.
 ---
 
 # Technical Overview of reading.jnapolitano.io
@@ -74,3 +79,4 @@ The modular class structure allows for future extension, such as adding testing 
 The project is a pragmatic solution to automate static site build and deployment workflows using Python and Make. It balances simplicity and functionality, providing a foundation that can be expanded with additional automation and robustness features.
 
 When returning to this project, focus on extending error handling, integrating testing, and documenting deployment steps more thoroughly to enhance maintainability and reliability.
+

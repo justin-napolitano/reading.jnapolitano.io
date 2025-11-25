@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/reading.jnapolitano.io
 generatedAt: '2025-11-24T21:36:09.804Z'
 source: github-auto
 summary: >-
-  Explore a Python project for automating the deployment of a static site with
-  build scripts and dependency management.
+  Explore a Python project for automating the deployment of a static site with build scripts and
+  dependency management.
 tags:
   - python
   - make
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - dependency management
   - html generation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -107,3 +107,4 @@ reading.jnapolitano.io/
 ---
 
 *Note: Some assumptions were made regarding the Makefile presence and deployment directory contents based on standard practices.*
+
